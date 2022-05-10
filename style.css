@@ -1,0 +1,73 @@
+.attribution { font-size: 11px; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+.title{
+    text-align: center;
+    color: white;
+
+}
+.body__description{
+    text-align: center;
+    font-size: 15px;
+    color: hsla(0, 0%, 100%, 0.75);
+
+}
+.data__info{
+    display: flex;
+
+}
+.subdata__info{
+
+}
+.subdata__details{
+    text-align: center;
+    text-transform: uppercase;
+    color: hsla(0, 0%, 100%, 0.6);
+    font-family: "Inter";
+}
+
+h2{
+    text-align: center;
+    color: white;
+
+}
+body{
+    background-color: hsl(233, 47%, 7%);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.main__content{
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+.card{
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 10px;
+    margin: 2rem 1.5rem;
+
+}
+span{
+    color: hsla(277, 64%, 61%);
+}
+
+.cover__image{
+    background-image: url("/images/image-header-mobile.jpg");
+    height: 32vh;
+    background-size: cover;
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+   
+    
+   
+ }
+ .filter__img{
+     background-color: hsla(277, 64%, 61%, 40%);
+     height: 100%;
+     ;
+ }
